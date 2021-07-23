@@ -648,7 +648,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAF8FA)
-    (at 204.095 59.53125)
+    (at 204.7875 53.18125)
     (path /60FAEFE2)
     (fp_text reference MX8 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -678,7 +678,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAF972)
-    (at 185.045 59.53125)
+    (at 185.7375 52.3875)
     (path /60FAE9CE)
     (fp_text reference MX7 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -707,8 +707,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FB03F1)
-    (at 165.995 59.53125)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAF9AE)
+    (at 165.89375 52.3875)
     (path /60FAE243)
     (fp_text reference MX6 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -738,7 +738,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAF9EA)
-    (at 146.945 59.53125)
+    (at 144.4625 52.3875)
     (path /60FACD39)
     (fp_text reference MX5 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -768,7 +768,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAF936)
-    (at 127.895 59.53125)
+    (at 123.825 53.18125)
     (path /60FACADF)
     (fp_text reference MX4 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -798,7 +798,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAE2C5)
-    (at 180.2825 40.48125)
+    (at 176.2125 32.54375)
     (path /60FB0D24)
     (fp_text reference MX3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -828,7 +828,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAE2B0)
-    (at 161.2325 40.48125)
+    (at 155.575 33.3375)
     (path /60FB01C0)
     (fp_text reference MX2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -858,7 +858,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 60FAE29B)
-    (at 142.1825 40.48125)
+    (at 134.9375 32.54375)
     (path /60FAFB2F)
     (fp_text reference MX1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
